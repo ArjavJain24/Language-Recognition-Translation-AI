@@ -1,0 +1,33 @@
+# 🤖 Language Recognition and Translation by AI
+
+![Presentation Slide](static/presentation-slide.png)
+
+A futuristic Flask-based web application that can:
+- **Auto-detect languages**
+- **Translate** between 100+ languages
+- **Recognize speech** for Hinglish and other languages
+- **Speak translations** with text-to-speech (TTS)
+- Provide a **modern, glassmorphism UI** with animations
+
+---
+
+## 🚀 Features
+- **Auto Language Detection** — instantly recognizes input language.
+- **Real-Time Translation** — type or speak, and see translations instantly.
+- **Speech-to-Text** — supports Hinglish (`en-IN`) and multiple locales.
+- **Text-to-Speech** — hear translations in the target language.
+- **Beautiful UI** — Vanta.js background, glassmorphism panels, animated robot.
+
+---
+
+## 📂 Project Structure
+Language-Recognition-Translation-AI/
+│
+├── app.py # Flask backend
+├── requirements.txt # Dependencies
+├── README.md # Project description
+├── templates/
+│ └── index-futuristic.html # HTML UI
+└── static/
+├── presentation-slide.png # AI-generated presentation
+└── (other CSS/JS/audio files)
