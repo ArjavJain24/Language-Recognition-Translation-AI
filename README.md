@@ -8,6 +8,7 @@ A futuristic Flask-based web application that can:
 - **Speak translations** with text-to-speech (TTS)
 - Provide a **modern, glassmorphism UI** with animations
 
+- <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/eb70fc5c-9498-4787-937d-88d7d6dcaf78" />
 ---
 
 ## 🚀 Features
@@ -17,9 +18,11 @@ A futuristic Flask-based web application that can:
 - **Text-to-Speech** — hear translations in the target language.
 - **Beautiful UI** — Vanta.js background, glassmorphism panels, animated robot.
 
-- <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/eb70fc5c-9498-4787-937d-88d7d6dcaf78" />
+
 <img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/259e28fd-9e12-44c2-81aa-c979c342c82a" />
 
+
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/ee54298f-cf43-41d3-8c18-67bcfb0b46f1" />
 
 
 ---
