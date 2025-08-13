@@ -1,6 +1,5 @@
 # 🤖 Language Recognition and Translation by AI
 
-![Presentation Slide](static/presentation-slide.png)
 
 A futuristic Flask-based web application that can:
 - **Auto-detect languages**
@@ -22,12 +21,43 @@ A futuristic Flask-based web application that can:
 
 ## 📂 Project Structure
 Language-Recognition-Translation-AI/
+
 │
 ├── app.py # Flask backend
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # Project description
+
 ├── templates/
+
 │ └── index-futuristic.html # HTML UI
+
 └── static/
+
 ├── presentation-slide.png # AI-generated presentation
+
 └── (other CSS/JS/audio files)
+
+
+
+## Requirement
+
+Flask
+googletrans==4.0.0rc1
+gTTS
+
+
+## Install dependencies
+
+pip install -r requirements.txt
+
+## Run the application
+
+python app.py
+
+
+## Open in your browser
+
+http://127.0.0.1:5000
+
